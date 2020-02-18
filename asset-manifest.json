@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/redux/static/css/main.37b6124f.chunk.css",
+    "main.js": "/redux/static/js/main.fb0ff335.chunk.js",
+    "main.js.map": "/redux/static/js/main.fb0ff335.chunk.js.map",
+    "runtime-main.js": "/redux/static/js/runtime-main.96801db3.js",
+    "runtime-main.js.map": "/redux/static/js/runtime-main.96801db3.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/redux/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f2c2834c.chunk.js": "/redux/static/js/2.f2c2834c.chunk.js",
+    "static/js/2.f2c2834c.chunk.js.map": "/redux/static/js/2.f2c2834c.chunk.js.map",
+    "index.html": "/redux/index.html",
+    "precache-manifest.7b32055e960392ac26a9c72bb9840eba.js": "/redux/precache-manifest.7b32055e960392ac26a9c72bb9840eba.js",
+    "service-worker.js": "/redux/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/redux/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.37b6124f.chunk.css.map": "/redux/static/css/main.37b6124f.chunk.css.map",
+    "static/js/2.f2c2834c.chunk.js.LICENSE.txt": "/redux/static/js/2.f2c2834c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/redux/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96801db3.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f2c2834c.chunk.js",
+    "static/css/main.37b6124f.chunk.css",
+    "static/js/main.fb0ff335.chunk.js"
+  ]
+}
